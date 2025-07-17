@@ -1,4 +1,4 @@
-# Responsible AI: CC33106 - 2024
+# Responsible AI: CC33106 - 2025
 This course is designed for science and engineering students to delve deeper into the principles of responsible artificial intelligence (AI). It will cover the risks associated with AI technologies, strategies to create transparent and understandable AI systems, and methods to mitigate biases in models. Through theoretical and practical classes, students will use techniques such as PDP, SHAP, and LIME in various programming languages to achieve an applied and detailed understanding. Additionally, they will complete practical assignments that integrate the acquired knowledge.
 
 ## Repository Purpose
